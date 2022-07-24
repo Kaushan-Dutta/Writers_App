@@ -196,13 +196,7 @@ app.post("/get_quote",async (req,res)=>{
 //    console.log(UpdateItem);
 }
 
-    catch(err){
-        console.log(err);
-    }
-});
-
-
-//app.get("/create_story",async(req,res)=>{})
+    
 
 //app.get("/create_quote",async(req,res)=>{})
 
